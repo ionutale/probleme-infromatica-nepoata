@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 using std::cin;
 using std::cout;
@@ -7,7 +6,8 @@ using std::ostream;
 
 /* 
   run this in the terminal to test the code
-  g++ -o 1.exe  ./1.cpp&./1.exe
+  g++ -o 1.exe  ./1.cpp
+  ./1.exe
 
   intput: 4578
   result: 8644
